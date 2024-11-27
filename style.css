@@ -1,0 +1,15 @@
+
+.jeu{
+    position: relative;
+    text-align: center;
+    background-color: darkslategray;
+
+}
+header{
+   background-color: darkslategray;
+    position: relative;
+    text-align: center;
+}
+.choice{
+    background-color: aqua;
+}
